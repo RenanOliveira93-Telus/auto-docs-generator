@@ -20,7 +20,7 @@ An automated documentation generator for Python projects using AI analysis. This
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/auto-docs-generator.git
+   git clone https://github.com/RenanOliveira93-Telus/auto-docs-generator.git
    cd auto-docs-generator
    ```
 
