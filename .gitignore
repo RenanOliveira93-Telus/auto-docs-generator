@@ -1,0 +1,17 @@
+# Secrets
+.env
+
+# Python compilation noise
+__pycache__/
+*.pyc
+
+# IDE settings
+.vscode/
+.idea/
+
+# Virtual Environment
+venv/
+env/
+
+# Generated output
+output/
