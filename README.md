@@ -86,9 +86,6 @@ auto-docs-generator/
 
 All changes must be submitted via Pull Request. Direct commits to main are not allowed.
 
-## License
-
-[Add your license here]
 
 ## Support
 
